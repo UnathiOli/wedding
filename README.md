@@ -13,6 +13,7 @@
   <header class="nav">
     <a href="#home" class="logo">H & A</a>
     <nav>
+      <a href="#celebration">Celebration</a>
       <a href="#details">Details</a>
       <a href="#gallery">Gallery</a>
       <a href="#rsvp">RSVP</a>
@@ -42,6 +43,36 @@
       <h2>Join us as we celebrate our wedding day</h2>
       <p>We would be honoured to have you with us as we begin this beautiful new chapter together.</p>
       <p class="italian">Saremmo onorati di avervi con noi mentre iniziamo insieme questo bellissimo nuovo capitolo.</p>
+    </section>
+
+
+    <section id="celebration" class="celebration section">
+      <div class="celebration-overlay"></div>
+      <div class="celebration-wrap">
+        <div class="celebration-heading">
+          <p class="eyebrow">Our celebration · La nostra celebrazione</p>
+          <h2>Love, grace, family, and all things worth giving thanks for</h2>
+          <h3>Amore, grazia, famiglia e tutto ciò per cui vale la pena rendere grazie</h3>
+        </div>
+        <div class="celebration-card">
+          <div class="lang-block">
+            <p>Our hearts are full of gratitude to God for love, for family, for friendship, and for the kindness that has carried us into this season. This celebration is our joyful thanksgiving to the Lord and a chance to gather the people we treasure most in one beautiful place.</p>
+            <p>We would love for you to come and witness as we officially celebrate our union before God and the people we hold dear. We pray the day feels warm, vibrant, elegant, and full of life, with laughter, thanksgiving, and unforgettable joy shared across generations.</p>
+            <blockquote>
+              “Two are better than one, because they have a good reward for their labour... For if they fall, the one will lift up his fellow.”
+              <cite>Ecclesiastes 4:9–10</cite>
+            </blockquote>
+          </div>
+          <div class="lang-block italian-block">
+            <p>I nostri cuori sono pieni di gratitudine verso Dio per l'amore, la famiglia, l'amicizia e per la bontà che ci ha accompagnati fino a questa stagione. Questa celebrazione è il nostro gioioso ringraziamento al Signore e un'occasione per riunire in un luogo meraviglioso le persone che più amiamo.</p>
+            <p>Saremmo felici di avervi con noi mentre celebriamo ufficialmente la nostra unione davanti a Dio e alle persone a noi care. Preghiamo che questo giorno sia caldo, vivace, elegante e pieno di vita, con risate, gratitudine e gioia indimenticabile condivisa tra generazioni.</p>
+            <blockquote>
+              “Due valgono più di uno, perché hanno una buona ricompensa per la loro fatica... Se uno cade, l'altro rialza il suo compagno.”
+              <cite>Ecclesiaste 4:9–10</cite>
+            </blockquote>
+          </div>
+        </div>
+      </div>
     </section>
 
     <section id="details" class="section details">
